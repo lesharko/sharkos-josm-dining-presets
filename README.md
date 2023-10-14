@@ -1,5 +1,5 @@
 # sharkos-josm-dining-presets
-A simple batch of dining presets for the JOSM OpenStreetMap editor.
+A simple pack of dining presets for the JOSM OpenStreetMap editor.
 
 Languages available: English, French
 
