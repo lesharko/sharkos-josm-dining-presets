@@ -1,4 +1,7 @@
 # sharkos-josm-dining-presets
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README-FR.md)
+
 Un simple pack de préréglages en rapport avec la restauration pour l'éditeur OpenStreetMap JOSM.
 
 Langues disponibles : anglais, français.
