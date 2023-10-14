@@ -1,6 +1,8 @@
 # sharkos-josm-dining-presets
 A simple batch of dining presets for the JOSM OpenStreetMap editor.
 
+Languages available: English, French
+
 ## Installation
 Copy the ZIP file anywhere on your computer; you can also leave it in your default Downloads folder.
 You can unzip it, but then you'll have to select the main XML file itself rather than the entire folder.
