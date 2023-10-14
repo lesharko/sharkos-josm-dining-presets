@@ -1,6 +1,6 @@
 # sharkos-josm-dining-presets
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
-[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README-FR.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/lesharko/sharkos-josm-dining-presets/blob/main/README.md)
+[![fr](https://img.shields.io/badge/lang-fr-green.svg)](https://github.com/lesharko/sharkos-josm-dining-presets/blob/main/README-FR.md)
 
 A simple pack of dining presets for the JOSM OpenStreetMap editor.
 
